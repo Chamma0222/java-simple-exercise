@@ -1,0 +1,9 @@
+public class Main {
+public static void main(String args[]) {
+System.out.println("I");
+System.out.println("want to");
+System.out.print("be a Java");
+System.out.println("Developer.");
+System.out.println("JAVA");
+}
+}
